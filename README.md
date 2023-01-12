@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jaywomack
 - 👀 I’m interested in Fullstack Web Development with React and Node.
-- 🌱 I’m currently learning advanced React and NodeJS
 - 💞️ I’m looking to collaborate on anything and everything. Ideally something that makes the world a better place.
 - 📫 How to reach me jaredjameswomack@gmail.com
 - 🏳️‍🌈  LQBTQ+ Ally
